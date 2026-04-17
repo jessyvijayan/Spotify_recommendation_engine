@@ -27,7 +27,7 @@ Discoverability: The NMF approach allows the system to recommend "long-tail" son
 
 💻 How to Run
 Clone the repository:
-git clone [YOUR_REPO_LINK]
+git clone [git@github.com:jessyvijayan/Spotify_recommendation_engine.git]
 
 Install Dependencies:
 pip install pandas numpy scikit-learn matplotlib
