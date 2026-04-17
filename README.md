@@ -33,5 +33,5 @@ Install Dependencies:
 pip install pandas numpy scikit-learn matplotlib
 
 Run Engine:
-python spotify_recommender.py
+[python spotify_recommender.py](https://github.com/jessyvijayan/Spotify_recommendation_engine/blob/main/Spotify_recommendation_system.ipynb)
 Use code with caution.
